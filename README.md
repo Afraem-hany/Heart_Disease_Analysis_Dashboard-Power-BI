@@ -60,5 +60,5 @@ Risk Factors Page:
 ---
 
 ## Author
-Created by **[Your Name]**  
-Connect with me on [LinkedIn](your-linkedin-url)  
+Created by **[Afraem Hany]**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/afraem-hany-677232370/)  
